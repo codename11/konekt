@@ -75,7 +75,7 @@ if($result3->num_rows > 0){
 		$myObj->ime[] = $row["ime"];
 		$myObj->prezime[] = $row["prezime"];
 		$myObj->adresa[] = $row["adresa"];
-		$myObj->datum_rođenja[] = $row["datum_rodjenja"];
+		$myObj->datum_rodjenja[] = $row["datum_rodjenja"];
 		$myObj->mesto[] = $row["mesto"];
 		$myObj->broj[] = $row["broj"];
 		$myObj->kompanija[] = $row["naziv"];
