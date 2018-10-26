@@ -1,0 +1,64 @@
+#btndel{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 3%;
+}
+
+#c1,#cx1{
+	margin-top: 10%;
+}
+
+#c2,#cx2{
+	border: 1px solid silver;
+	border-radius: 5px;
+	background-color: #fefefe;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: auto;
+}
+
+.inp, .inpV2{
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.inpV2{
+	width: 50%;
+}
+
+#csv, #xslx{
+	margin: 10px !important;
+}
+
+#raport{
+	margin-top: 1%;
+	padding: 0px !important;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+}
+
+#tabela{
+	width: 100% !important;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #fefefe;
+	text-decoration: none;
+    color: red;
+    text-align: center;
+}
+
+#dCSV,#dCSV:link, #dCSV:visited, #dCSV:hover, #dCSV:active{
+    text-decoration: none !important;
+	color: white !important;
+}
+
+.text-success, .footer{
+	font-family: 'Sofia';
+}
